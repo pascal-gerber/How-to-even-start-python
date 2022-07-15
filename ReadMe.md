@@ -10,19 +10,19 @@ Starting from the beginning, you first have to download or find a compiler./
 ### My recommandations from top to bottom
 #### Downloadable
 
-1. [Idle](https://www.python.org/)
+1. [Idle](https://www.python.org/)\
 On my option the best since its simple and is very connected to windows.
 Uses CMD directly for PIP installs and very fast and practical compiler
-2. [Visual studio](https://visualstudio.microsoft.com/de/)
+2. [Visual studio](https://visualstudio.microsoft.com/de/)\
 the second best since so many peoples use it, personnaly i think it has too much
 But its all a question of taste
-3. [Pycharm](https://www.jetbrains.com/pycharm/)
+3. [Pycharm](https://www.jetbrains.com/pycharm/)\
 Has a normal compiler interface, nothing so much special about it
-4. [Tygerjython](https://tigerjython.ch/de)
+4. [Tygerjython](https://tigerjython.ch/de)\
 Very fast compiler, simple as well, but module limited
 
 there are soo many more compilers
-[https://www.guru99.com/python-ide-code-editor.html](Click here for more.)
+[Click here for more.](https://www.guru99.com/python-ide-code-editor.html)
 
 #### Web based
 
