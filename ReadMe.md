@@ -48,7 +48,7 @@ By either pressing "Ctrl + N" or clicking the "File" on the top left then "New F
 This IDE has 2 interfaces normaly, one Console application and one Compiler application.\
 you want to use the compiler since you can save big codes there simply by "Ctrl + S" or clicking "File" and "Save".\
 \
-what i like personnaly about it **"can vary troughout peoples"**.\
+What i like in my opinion the most personnaly **"Doesn't need to be your opinion"**, 
 is that **theres nothing else getting in your way, you can focus entirely of your code**.\
 \
 Now, idle might not look so good to you, maybe try openning the **"options"** then click **"Configure idle"**.\
