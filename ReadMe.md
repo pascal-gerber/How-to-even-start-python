@@ -10,15 +10,15 @@ Starting from the beginning, you first have to download or find a compiler./
 ### My recommandations from top to bottom
 #### Downloadable
 
-1. [https://www.python.org/](Idle)
+1. [Idle](https://www.python.org/)
 On my option the best since its simple and is very connected to windows.
 Uses CMD directly for PIP installs and very fast and practical compiler
-2. [https://visualstudio.microsoft.com/de/](Visual studio)
+2. [Visual studio](https://visualstudio.microsoft.com/de/)
 the second best since so many peoples use it, personnaly i think it has too much
 But its all a question of taste
-3. [https://www.jetbrains.com/pycharm/](Pycharm)
+3. [Pycharm](https://www.jetbrains.com/pycharm/)
 Has a normal compiler interface, nothing so much special about it
-4. [https://tigerjython.ch/de](Tygerjython)
+4. [Tygerjython](https://tigerjython.ch/de)
 Very fast compiler, simple as well, but module limited
 
 there are soo many more compilers
@@ -26,12 +26,12 @@ there are soo many more compilers
 
 #### Web based
 
-1. [https://www.online-python.com/online_python_compiler](Python compiler)
+1. [Python compiler](https://www.online-python.com/online_python_compiler)
 Nothing special, just a fast and normal python compiler
-2. [https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb](Jupyter notebook)
+2. [Jupyter notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
 Has all the python modules ever already preinstalled
 can be well used for AI's since its one of the only supporting Torch
-3. [https://www.onlinegdb.com/online_python_compiler](OnlineGB)
+3. [OnlineGB](https://www.onlinegdb.com/online_python_compiler)
 Has some bonuses in knowledge, gives a small base to learn from.
 
 
