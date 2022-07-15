@@ -3,7 +3,7 @@
 ## This tutorial is for peoples who never ever used python and are stuck at litterally the download part
 ## Its suppose to help someone into the first steps
 
-Python can be either a scripting or a programming language which in programming aspects can be either a Procedural programming language or an Object oriented, but that will be explained in the [Precised description]()./
+Python can be either a scripting or a programming language which in programming aspects can be either a Procedural programming language or an Object oriented, but that will be explained in the [Precised description](https://github.com/pascal-gerber/How-to-even-start-python/blob/main/MoreDetailed.md)./
 assuming you have no knowledge about programming, Python is the perfect language to look at for you./
 Starting from the beginning, you first have to download or find a compiler./
 /
