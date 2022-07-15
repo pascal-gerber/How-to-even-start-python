@@ -6,7 +6,7 @@
 Python can be either a scripting or a programming language which in programming aspects can be either a Procedural programming language or an Object oriented, but that will be explained in the [Precised description](https://github.com/pascal-gerber/How-to-even-start-python/blob/main/MoreDetailed.md).\
 assuming you have no knowledge about programming, Python is the perfect language to look at for you.\
 Starting from the beginning, you first have to download or find a compiler.\
-/
+
 ### My recommandations from top to bottom
 #### Downloadable
 
