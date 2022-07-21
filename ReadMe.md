@@ -48,6 +48,7 @@ By either pressing "Ctrl + N" or clicking the "File" on the top left then "New F
 This IDE has 2 interfaces normaly, one Console application and one Compiler application.\
 you want to use the compiler since you can save big codes there simply by "Ctrl + S" or clicking "File" and "Save".\
 ![Python start](https://github.com/pascal-gerber/How-to-even-start-python/blob/main/How%20to%20make%20a%20new%20IDLE%20file.PNG)
+\
 In my opinion, nothing beats the **simplicity of IDLE** and how it **allows you to focus entirely on your code.**
 \
 Now, idle might not look so good to you, maybe try openning the **"options"** then click **"Configure idle"**.\
@@ -61,6 +62,7 @@ Visual studio also has some more file supported swapping, which can either be a 
 There is one thing i specificly dont like about Visual studio, is that its such a heavy programm.\
 But visual studio is certainly worth a try\
 ![Python start](https://github.com/pascal-gerber/How-to-even-start-python/blob/main/Visual%20studio.PNG)
+\
 Visual studio is oppened on searching "Visual studio" on your searchbar.\
 but it also has a widget on your desktop, you can drag and drop any file into that widget and it opens them, even whole folders, so first you have to create a new "fileName.py" and drag it on the widget.\
 \
